@@ -1,4 +1,7 @@
-wp-crc-contact-fields
+CRC Contact Fields for WordPress
 =====================
 
-WordPress Additional Contact Fields for CRC
+Adds additional contact fields relevant to CRC's WordPress site.
+
+In the spirit of transparency, we have made the source for the management of these additional fields
+open.
