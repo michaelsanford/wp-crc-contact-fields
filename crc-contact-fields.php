@@ -6,7 +6,7 @@
 
 /**
  * Plugin Name: CRC Contact Fields
- * Plugin URI: https://github.com/robo-crc/wp-crc-contact-fields
+ * Plugin URI: https://github.com/robo-crc/crc-contact-fields
  * Description: Adds additional contact fields relevant to CRC's WordPress site
  * Author: Michael Sanford
  * Version: 0.9
