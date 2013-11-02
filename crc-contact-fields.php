@@ -26,6 +26,6 @@ function modify_user_contact_methods($user_contact) {
 }
 
 /**
- *
+ * Hook
  */
 add_filter('user_contactmethods', 'modify_user_contact_methods');
